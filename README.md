@@ -34,6 +34,8 @@ at Sorocaba Technological Park,
 at Faculdade Impacta,
 <i>01/2019 - Present</i></p>
 
+<i align="center><b>“First, solve the problem. Then, write the code.”</b> – John Johnson</i>
+
 <p><b>Computing Technician</b>
 at ETEC Fernando Prestes,
 <i>01/2017 - 06/2018</i></p>
