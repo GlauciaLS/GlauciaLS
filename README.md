@@ -4,7 +4,7 @@ My name is Glaucia Silva and I'm a brazilian software engineer with experience i
 Contact me on:
 [Linkedin](https://www.linkedin.com/in/glaucials/)
 
-### Main Technologies and Tools
+### Main Technologies and Tools 🔨
 
 <p align="center">
           
@@ -18,7 +18,7 @@ Contact me on:
   
 </p> 
 
-### Professional Experience
+### Professional Experience 👩🏻‍💻
 
 <p><b>Junior Software Engineer</b>
 at Itaú Unibanco,
@@ -28,7 +28,7 @@ at Itaú Unibanco,
 at Sorocaba Technological Park,
 <i>02/2020 - 07/2020</i></p>
 
-### Education
+### Education 👩🏻‍🎓
 
 <p><b>Systems Analysis and Development</b>
 at Faculdade Impacta,
@@ -37,6 +37,8 @@ at Faculdade Impacta,
 <p><b>Computing Technician</b>
 at ETEC Fernando Prestes,
 <i>01/2017 - 06/2018</i></p>
+
+<br>
 
 <p align="center">
    <i><b>“First, solve the problem. Then, write the code.”</b> – John Johnson<i/>
