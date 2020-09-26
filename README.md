@@ -31,13 +31,15 @@ Contact me on:
 
 ### Education 👩🏻‍🎓
 
-<p><b>Systems Analysis and Development</b>
-at Faculdade Impacta,
-<i>01/2019 - Present</i></p>
 
-<p><b>Computing Technician</b>
-at ETEC Fernando Prestes,
-<i>01/2017 - 06/2018</i></p>
+<ul>
+          <li><p><b>Systems Analysis and Development</b>
+          at Faculdade Impacta,
+          <i>01/2019 - Present</i></p></li>
+          <li><p><b>Computing Technician</b>
+          at ETEC Fernando Prestes,
+          <i>01/2017 - 06/2018</i></p></li>
+</ul>
 
 <br>
 
