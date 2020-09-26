@@ -20,13 +20,15 @@ Contact me on:
 
 ### Professional Experience 👩🏻‍💻
 
-<p><b>Junior Software Engineer</b>
-at Itaú Unibanco,
-<i>07/2020 - Present</i></p>
-  
-<p><b>IT Intern</b>
-at Sorocaba Technological Park,
-<i>02/2020 - 07/2020</i></p>
+<ul>
+          <li><b>Junior Software Engineer</b>
+          at Itaú Unibanco,
+          <i>07/2020 - Present</i></li>
+
+          <li><b>IT Intern</b>
+          at Sorocaba Technological Park,
+          <i>02/2020 - 07/2020</i></li>
+</ul>
 
 ### Education 👩🏻‍🎓
 
