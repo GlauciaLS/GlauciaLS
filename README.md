@@ -10,9 +10,9 @@ Contact me on:
           
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">  
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:4px">  
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/jetbrains_intellij.svg" alt="intellij" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
   
