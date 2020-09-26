@@ -1,10 +1,10 @@
-### Hey Dev! 👋
+## Hey Dev! 👋
 
 My name is Glaucia Silva and I'm a brazilian software engineer with experience in backend development.
 Contact me on:
 [Linkedin](https://www.linkedin.com/in/glaucials/)
 
-## Main Technologies and Tools
+### Main Technologies and Tools
 
 <p align="center">
           
@@ -19,7 +19,7 @@ Contact me on:
   
 </p> 
 
-## Professional Experience
+### Professional Experience
 
 <p><b>Junior Software Engineer</b>
 at Itaú Unibanco,
@@ -29,7 +29,7 @@ at Itaú Unibanco,
 at Sorocaba Technological Park,
 <i>02/2020 - 07/2020</i></p>
 
-## Education
+### Education
 
 <p><b>Systems Analysis and Development</b>
 at Faculdade Impacta,
