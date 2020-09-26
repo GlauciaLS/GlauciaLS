@@ -2,11 +2,11 @@
 
 My name is Glaucia Silva and I'm a brazilian software engineer with experience in backend development.
 Contact me on:
-{Linkedin}(https://www.linkedin.com/in/glaucials/)
+[Linkedin](https://www.linkedin.com/in/glaucials/)
 
 ## Main Technologies and Tools
 
-<p align="center>
+<p align="center">
           
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">  
