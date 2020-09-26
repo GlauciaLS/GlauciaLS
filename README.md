@@ -33,12 +33,12 @@ Contact me on:
 
 
 <ul>
-          <li><p><b>Systems Analysis and Development</b>
+          <li><b>Systems Analysis and Development</b>
           at Faculdade Impacta,
-          <i>01/2019 - Present</i></p></li>
-          <li><p><b>Computing Technician</b>
+          <i>01/2019 - Present</i></li>
+          <li><b>Computing Technician</b>
           at ETEC Fernando Prestes,
-          <i>01/2017 - 06/2018</i></p></li>
+          <i>01/2017 - 06/2018</i></li>
 </ul>
 
 <br>
