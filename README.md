@@ -38,4 +38,6 @@ at Faculdade Impacta,
 at ETEC Fernando Prestes,
 <i>01/2017 - 06/2018</i></p>
 
-<i align="center"><b>“First, solve the problem. Then, write the code.”</b> – John Johnson<i/>
+<p align="center">
+   <i><b>“First, solve the problem. Then, write the code.”</b> – John Johnson<i/>
+</p>
