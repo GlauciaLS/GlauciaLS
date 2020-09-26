@@ -24,7 +24,6 @@ Contact me on:
           <li><b>Junior Software Engineer</b>
           at Itaú Unibanco,
           <i>07/2020 - Present</i></li>
-
           <li><b>IT Intern</b>
           at Sorocaba Technological Park,
           <i>02/2020 - 07/2020</i></li>
