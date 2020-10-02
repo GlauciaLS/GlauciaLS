@@ -1,5 +1,18 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glaucials&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=glaucials)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaucials&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=anuraghazra"
+    />
+  </a>
+</p>
 
 ## Hey Dev! 👋
 
