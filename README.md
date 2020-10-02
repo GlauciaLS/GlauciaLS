@@ -1,19 +1,3 @@
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaucials&layout=compact"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=anuraghazra"
-    />
-  </a>
-</p>
-
 ## Hey Dev! 👋
 
 My name is Glaucia Silva and I'm a brazilian software engineer with experience in backend development.
@@ -61,4 +45,20 @@ Contact me on:
 
 <p align="center">
    <i><b>“First, solve the problem. Then, write the code.”</b> – John Johnson<i/>
+</p>
+  
+  <p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaucials&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=anuraghazra"
+    />
+  </a>
 </p>
