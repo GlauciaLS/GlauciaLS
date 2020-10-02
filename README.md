@@ -44,10 +44,6 @@ Contact me on:
 <br>
 
 <p align="center">
-   <i><b>“First, solve the problem. Then, write the code.”</b> – John Johnson<i/>
-</p>
-  
-  <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
@@ -61,4 +57,8 @@ Contact me on:
       src="https://github-readme-stats.vercel.app/api?username=glaucials"
     />
   </a>
+</p>
+
+<p align="center">
+   <i><b>“First, solve the problem. Then, write the code.”</b> – John Johnson<i/>
 </p>
