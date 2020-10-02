@@ -41,8 +41,6 @@ Contact me on:
           <i>01/2017 - 06/2018</i></li>
 </ul>
 
-<br>
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
