@@ -18,29 +18,6 @@ Contact me on:
   
 </p> 
 
-### Professional Experience 👩🏻‍💻
-
-<ul>
-          <li><b>Junior Software Engineer</b>
-          at Itaú Unibanco,
-          <i>07/2020 - Present</i></li>
-          <li><b>IT Intern</b>
-          at Sorocaba Technological Park,
-          <i>02/2020 - 07/2020</i></li>
-</ul>
-
-### Education 👩🏻‍🎓
-
-
-<ul>
-          <li><b>Systems Analysis and Development</b>
-          at Faculdade Impacta,
-          <i>01/2019 - Present</i></li>
-          <li><b>Computing Technician</b>
-          at ETEC Fernando Prestes,
-          <i>01/2017 - 06/2018</i></li>
-</ul>
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
