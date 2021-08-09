@@ -40,4 +40,7 @@ Contact me on:
    <i><b>“First, solve the problem. Then, write the code.”</b> – John Johnson<i/>
 </p>
       
-![](https://komarev.com/ghpvc/?username=glaucials)
+<p align="center">
+   <a href="https://www.linkedin.com/in/glaucials/"><img src="https://img.shields.io/badge/-GlauciaLS-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+   <a href="https://github.com/GlauciaLS"><img src="https://komarev.com/ghpvc/?username=glaucials"/></a>
+</p>
