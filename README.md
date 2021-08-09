@@ -36,6 +36,6 @@ Contact me on:
 
 <p align="center">
    <i><b>“First, solve the problem. Then, write the code.”</b> – John Johnson<i/>
-             ![](https://komarev.com/ghpvc/?username=glaucials)
+![](https://komarev.com/ghpvc/?username=glaucials)
 </p>
       
