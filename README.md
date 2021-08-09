@@ -1,4 +1,4 @@
-<h1 align="center"> Hey Dev! 👋 </h1>
+<h2 align="center"> Hey Dev! 👋 </h2>
 
 <p align="center">
   My name is Glaucia Silva and I'm a brazilian software engineer with experience in backend development.
