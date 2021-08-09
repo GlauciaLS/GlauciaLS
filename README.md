@@ -20,6 +20,8 @@
   
 </p> 
 
+<h2 align="center"> Stats 📈 </h2>
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
