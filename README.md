@@ -37,3 +37,5 @@ Contact me on:
 <p align="center">
    <i><b>“First, solve the problem. Then, write the code.”</b> – John Johnson<i/>
 </p>
+          
+![Visitor Count](https://profile-counter.glitch.me/GlauciaLS/count.svg)
