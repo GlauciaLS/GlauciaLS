@@ -4,9 +4,9 @@ My name is Glaucia Silva and I'm a brazilian software engineer with experience i
 Contact me on:
 [Linkedin](https://www.linkedin.com/in/glaucials/)
 
-### Main Technologies and Tools 🔨
+<h2 align="center"> Main Technologies and Tools 🔨 </h2>
 
-<p>
+<p align="center">
           
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">  
