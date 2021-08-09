@@ -38,4 +38,4 @@ Contact me on:
    <i><b>“First, solve the problem. Then, write the code.”</b> – John Johnson<i/>
 </p>
           
-[![Visits Badge](https://badges.pufler.dev/visits/GlauciaLS)](https://badges.pufler.dev)
+![](https://komarev.com/ghpvc/?username=glaucials)
