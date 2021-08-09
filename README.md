@@ -1,8 +1,8 @@
 ## Hey Dev! 👋
 
-My name is Glaucia Silva and I'm a brazilian software engineer with experience in backend development.
-Contact me on:
-[Linkedin](https://www.linkedin.com/in/glaucials/)
+<p align="center">
+  My name is Glaucia Silva and I'm a brazilian software engineer with experience in backend development.
+</p> 
 
 <h2 align="center"> Main Technologies and Tools 🔨 </h2>
 
