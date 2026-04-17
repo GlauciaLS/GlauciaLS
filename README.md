@@ -10,8 +10,8 @@
 
 <h2>🧠 Sobre</h2>
 <p>
-  Atuação em sistemas de alta volumetria (500–1000 RPS), com foco em arquiteturas distribuídas,
-  microserviços e modernização de legados (mainframe → AWS).
+  Atuação em sistemas de alta volumetria, com foco em arquiteturas distribuídas,
+  microserviços e modernização de legados para nuvem.
 </p>
 <p>
   Atualmente explorando <strong>GenAI</strong> e soluções multimodais (áudio, imagem e server-driven UI).
@@ -31,12 +31,12 @@
 
 <h2>🎯 Interesses</h2>
 <p>
-  🏗️ System Design • ⚡ Escalabilidade • 🔗 Arquitetura Distribuída • 🤖 GenAI
+  🏗️ System Design • ⚡ Escalabilidade • 🔗 Arquitetura Distribuída • ☁️ Cloud Computing • 👀 SRE • 🤖 GenAI
 </p>
 
 ---
 
 <h2>📐 Princípios</h2>
 <p>
-  SOLID • DDD • Clean Architecture
+  Design Patterns • SOLID • DDD • Clean Architecture
 </p>
